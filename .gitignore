@@ -1,0 +1,9 @@
+.DS_Store
+
+# 以下内容含《王者荣耀》客户端音频，暂不上传。
+# 确认可以放到 GitHub 后，删掉下面几行再提交即可。
+art/hok_audio_raw/
+abstract-brawl-m0/assets/audio/bgm_*.mp3
+abstract-brawl-m0/assets/audio/sfx_whoosh*.mp3
+abstract-brawl-m0/assets/audio/sfx_gc.mp3
+release/*v0.8.0*

@@ -1,0 +1,315 @@
+{
+ "frog_idle": {
+  "source_id": "4fb80b",
+  "frame": 0,
+  "url": "https://pic.rmb.bdstatic.com/bjh/down/f512RZTqYwmXomU4CxxtBge7f68525b10e594f51bf42d0c9d74309.jpg?for=bg",
+  "size": [
+   335,
+   520
+  ]
+ },
+ "frog_arms": {
+  "source_id": "831278",
+  "frame": 0,
+  "url": "https://img0.baidu.com/it/u=2292468288,3286083745&fm=253&fmt=auto&app=138&f=JPEG?w=513&h=912",
+  "size": [
+   394,
+   520
+  ]
+ },
+ "frog_tongue": {
+  "source_id": "fd8f76",
+  "frame": 0,
+  "url": "http://img1.baidu.com/it/u=3338056371,407911018&fm=253&app=138&f=JPEG?w=376&h=330",
+  "size": [
+   498,
+   420
+  ]
+ },
+ "frog_hold": {
+  "source_id": "a11f18",
+  "frame": 0,
+  "url": "https://media.9game.cn/gamebase/ieu-eagle-docking-service/images/20260404/3/3/afd6911b993a3a1c403ab3138a20512c.jpeg",
+  "size": [
+   248,
+   496
+  ]
+ },
+ "roo_idle": {
+  "source_id": "9b068b",
+  "frame": 0,
+  "url": "https://file.digitaling.com/eImg/uimages/20260901/remote_178824388759500.jpg",
+  "size": [
+   425,
+   520
+  ]
+ },
+ "roo_suit": {
+  "source_id": "ea9772",
+  "frame": 0,
+  "url": "https://file.digitaling.com/eImg/uimages/20260901/remote_178824389020611.gif",
+  "size": [
+   322,
+   384
+  ]
+ },
+ "roo_police": {
+  "source_id": "01794c",
+  "frame": 45,
+  "url": "https://file.digitaling.com/eImg/uimages/20260901/remote_178824389198668.gif",
+  "size": [
+   334,
+   421
+  ]
+ },
+ "roo_salute": {
+  "source_id": "3cb4f4",
+  "frame": 0,
+  "url": "https://file.digitaling.com/eImg/uimages/20260901/remote_178824387983799.png",
+  "size": [
+   314,
+   300
+  ]
+ },
+ "frog_poster": {
+  "source_id": "9b068b",
+  "frame": 0,
+  "url": "https://file.digitaling.com/eImg/uimages/20260901/remote_178824388759500.jpg",
+  "size": [
+   333,
+   520
+  ]
+ },
+ "frogx_idle": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v1.png",
+  "sheet_h": 544
+ },
+ "frogx_punch": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v1.png",
+  "sheet_h": 551
+ },
+ "frogx_kick": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v1.png",
+  "sheet_h": 532
+ },
+ "frogx_hurt": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v1.png",
+  "sheet_h": 526
+ },
+ "roox_idle": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v1.png",
+  "sheet_h": 543
+ },
+ "roox_punch": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v1.png",
+  "sheet_h": 545
+ },
+ "roox_kick": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v1.png",
+  "sheet_h": 545
+ },
+ "roox_hurt": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v1.png",
+  "sheet_h": 529
+ },
+ "frogx_block": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v2_basic.png",
+  "sheet_h": 450
+ },
+ "frogx_crouch": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v2_basic.png",
+  "sheet_h": 423
+ },
+ "frogx_jump": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v2_basic.png",
+  "sheet_h": 445
+ },
+ "frogx_win": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v2_basic.png",
+  "sheet_h": 440
+ },
+ "frogx_tongue": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v2_special.png",
+  "sheet_h": 390
+ },
+ "frogx_rise": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v2_special.png",
+  "sheet_h": 498
+ },
+ "frogx_flop": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v2_special.png",
+  "sheet_h": 253
+ },
+ "frogx_slide": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v2_special.png",
+  "sheet_h": 284
+ },
+ "roox_block": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v2_basic.png",
+  "sheet_h": 443
+ },
+ "roox_crouch": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v2_basic.png",
+  "sheet_h": 434
+ },
+ "roox_jump": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v2_basic.png",
+  "sheet_h": 443
+ },
+ "roox_win": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v2_basic.png",
+  "sheet_h": 432
+ },
+ "roox_throw": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v2_special.png",
+  "sheet_h": 406
+ },
+ "roox_rise": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v2_special.png",
+  "sheet_h": 440
+ },
+ "roox_sweep": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v2_special.png",
+  "sheet_h": 372
+ },
+ "roox_flykick": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v2_special.png",
+  "sheet_h": 391
+ },
+ "frogx_inhale": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v3_b.png",
+  "sheet_h": 453
+ },
+ "frogx_charge": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v3_b.png",
+  "sheet_h": 408
+ },
+ "frogx_getup": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v3_b.png",
+  "sheet_h": 360
+ },
+ "frogx_dash": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v3_b.png",
+  "sheet_h": 423
+ },
+ "roox_jab": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v3_a.png",
+  "sheet_h": 422
+ },
+ "roox_lkick": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v3_a.png",
+  "sheet_h": 431
+ },
+ "roox_hurt2": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v3_a.png",
+  "sheet_h": 376
+ },
+ "roox_lying": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v3_a.png",
+  "sheet_h": 170
+ },
+ "roox_windup": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v3_b.png",
+  "sheet_h": 411
+ },
+ "roox_charge": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v3_b.png",
+  "sheet_h": 411
+ },
+ "roox_getup": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v3_b.png",
+  "sheet_h": 372
+ },
+ "roox_dash": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_sheet_v3_b.png",
+  "sheet_h": 407
+ },
+ "frogx_jab": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v3_a.png",
+  "sheet_h": 445
+ },
+ "frogx_lkick": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v3_a.png",
+  "sheet_h": 437
+ },
+ "frogx_hurt2": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v3_a.png",
+  "sheet_h": 428
+ },
+ "frogx_lying": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_sheet_v3_a.png",
+  "sheet_h": 251
+ },
+ "frogx_cutin": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "frog_cutin_v1.png"
+ },
+ "roox_cutin": {
+  "source": "AI 重绘（参考网络二创形象）",
+  "sheet": "roo_cutin_v1.png"
+ },
+ "stage_market": {
+  "source": "AI 生成（与角色同一软胶画风）",
+  "sheet": "stage_nightmarket_v1.png"
+ },
+ "fx_hit": {
+  "source": "AI 生成（黑底，叠加混合使用）",
+  "sheet": "fx_sheet_v1.png"
+ },
+ "fx_heavy": {
+  "source": "AI 生成（黑底，叠加混合使用）",
+  "sheet": "fx_sheet_v1.png"
+ },
+ "fx_block": {
+  "source": "AI 生成（黑底，叠加混合使用）",
+  "sheet": "fx_sheet_v1.png"
+ },
+ "fx_glow": {
+  "source": "AI 生成（黑底，叠加混合使用）",
+  "sheet": "fx_sheet_v1.png"
+ },
+ "logo_plate": {
+  "source": "AI 生成（空白徽章，文字由程序绘制）",
+  "sheet": "logo_plate_v1.png"
+ }
+}

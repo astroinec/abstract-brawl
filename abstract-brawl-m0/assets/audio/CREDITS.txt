@@ -1,0 +1,16 @@
+音频来源
+========
+bgm_title / bgm_select / bgm_fight1-3、sfx_whoosh / sfx_whoosh2 / sfx_gc
+  取自《王者荣耀》客户端素材（Music_Lobby / Music_BanPick / Music_PVP_Five / Music_PVP / Effect_Common），
+  版权归腾讯所有。本项目为个人娱乐，非商用；如需公开发布或商用，请替换为可商用素材。
+
+sfx_hit* / sfx_heavy* / sfx_block* / sfx_land / sfx_down / sfx_throw
+  Kenney「Impact Sounds」，CC0 1.0（https://kenney.nl/assets/impact-sounds）
+
+ui_move / ui_ok / ui_back
+  Kenney「Interface Sounds」，CC0 1.0（https://kenney.nl/assets/interface-sounds）
+
+vo_*（第一回合 / 开打 / K.O. / 时间到 / 完美 / 超必杀）
+  macOS 语音合成「婷婷」生成，加轻微回声。
+
+处理：统一 loudnorm 响度，音乐 96kbps 立体声，音效 64kbps 单声道。
